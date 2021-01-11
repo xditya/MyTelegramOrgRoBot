@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """Hi!
 Please read the TnC before proceeding: https://telegra.ph/AppIdExtractor-bot-01-11
-Thank you for using me 😬
+Thank you for using me 😬/n I work together with @tamilsessionbot,used to generate your session string./n
 Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
 Your deatils are safe and is not stored anywhere.
 
