@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi!
-Please read the TnC before proceeding: https://telegra.ph/telebot-scrapperbot-07-24
+Please read the TnC before proceeding: https://telegra.ph/AppIdExtractor-bot-01-11
 Thank you for using me 😬
 Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
 Your deatils are safe and is not stored anywhere.
@@ -15,7 +15,7 @@ by opening https://github.com/xditya/MyTelegramOrgRoBot and clicking on the Pink
 
 /start at any stage to re-enter your details"""
     BEFORE_SUCC_LOGIN = "Recieved code. Scarpping web page ..."
-    ERRED_PAGE = "Something wrongings. failed to get app id. \n\nReport to @TeleBotHelpChat"
+    ERRED_PAGE = "Something wrongings. failed to get app id. \n\nReport to @tamilsupport"
     CANCELLED_MESG = "Bye! Please re /start the bot conversation"
     IN_VALID_CODE_PVDED = "Sorry, but the input does not seem to be a valid Telegram Web-Login code"
     IN_VALID_PHNO_PVDED = "Sorry, but the input does not seem to be a valid phone number"
